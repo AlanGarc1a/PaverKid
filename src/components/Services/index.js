@@ -42,7 +42,7 @@ const SlideTitle = styled.h3`
 
 const Services = () => {
   let settings = {
-    dots: false,
+    dots: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
