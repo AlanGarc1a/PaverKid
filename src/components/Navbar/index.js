@@ -112,7 +112,7 @@ const navLinks = [
 const Navbar = ({ toggle }) => {
   return (
     <Header>
-      <MenuPhone href="tel:+8184065543">
+      <MenuPhone href="tel:+7472927535">
         <BsTelephoneFill size={20} />
       </MenuPhone>
       <Nav>

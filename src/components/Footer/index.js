@@ -84,7 +84,7 @@ const Footer = () => {
             </FooterIG>
           </FooterSocial>
           <div>
-            <FooterLink>(818) 406-5543</FooterLink>
+            <FooterLink>(747)-292-7535</FooterLink>
             <FooterButton href="mailto:Paveitlandscape@gmail.com">
               Free Estimate
             </FooterButton>
